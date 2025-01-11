@@ -1,0 +1,561 @@
+[2020-06-29 09:10:24] Executing bootstrap tasks
+[2020-06-29 09:10:24] Java(TM) SE Runtime Environment 1.8.0_181-b13
+[2020-06-29 09:10:24] Product org.eclipse.products.epp.package.php.2019-12
+[2020-06-29 09:10:24] Bundle org.eclipse.oomph.setup 1.15.0.v20191116-1146, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-06-29 09:10:24] Bundle org.eclipse.oomph.setup.core 1.15.0.v20191103-0619, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-06-29 09:10:24] Bundle org.eclipse.oomph.setup.p2 1.13.0.v20191019-1424, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-06-29 09:10:24] Performing P2 Director (Eclipse IDE for PHP Developers (2019-12))
+[2020-06-29 09:10:24] Offline = false
+[2020-06-29 09:10:24] Mirrors = true
+[2020-06-29 09:10:24] Resolving 22 requirements from 3 repositories to C:\Users\Asus\eclipse\php-2019-12\eclipse
+[2020-06-29 09:10:24] Requirement epp.package.php [4.14.0,5.0.0)
+[2020-06-29 09:10:24] Requirement org.eclipse.platform.feature.group [4.14.0,5.0.0)
+[2020-06-29 09:10:24] Requirement org.eclipse.rcp.feature.group [4.14.0,5.0.0)
+[2020-06-29 09:10:24] Requirement org.eclipse.egit.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.egit.gitflow.feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.egit.mylyn.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.epp.mpc.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.mylyn.bugzilla_feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.mylyn.context_feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.mylyn.ide_feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.mylyn.wikitext_feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.mylyn_feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.php.composer.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.php.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.php.mylyn.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.php.phpunit.feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.php.profiler.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.php.rdt.sync.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.tm.terminal.feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.wst.jsdt.feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.wst.xml_ui.feature.feature.group
+[2020-06-29 09:10:24] Requirement org.eclipse.oomph.setup.feature.group
+[2020-06-29 09:10:24] Repository http://download.eclipse.org/technology/epp/packages/2019-12
+[2020-06-29 09:10:24] Repository http://download.eclipse.org/releases/2019-12/201912181000
+[2020-06-29 09:10:24] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2020-06-29 09:10:42] Calculating requirements and dependencies.
+[2020-06-29 09:10:42] Computing prerequisite plan
+[2020-06-29 09:10:51] 
+[2020-06-29 09:10:55] Executing bootstrap tasks
+[2020-06-29 09:10:55] Java(TM) SE Runtime Environment 1.8.0_181-b13
+[2020-06-29 09:10:55] Product org.eclipse.products.epp.package.php.2019-12
+[2020-06-29 09:10:55] Bundle org.eclipse.oomph.setup 1.15.0.v20191116-1146, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-06-29 09:10:55] Bundle org.eclipse.oomph.setup.core 1.15.0.v20191103-0619, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-06-29 09:10:55] Bundle org.eclipse.oomph.setup.p2 1.13.0.v20191019-1424, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-06-29 09:10:55] Performing P2 Director (Eclipse IDE for PHP Developers (2019-12))
+[2020-06-29 09:10:55] Offline = false
+[2020-06-29 09:10:55] Mirrors = true
+[2020-06-29 09:10:55] Resolving 22 requirements from 3 repositories to C:\Users\Asus\eclipse\php-2019-12\eclipse
+[2020-06-29 09:10:55] Requirement epp.package.php [4.14.0,5.0.0)
+[2020-06-29 09:10:55] Requirement org.eclipse.platform.feature.group [4.14.0,5.0.0)
+[2020-06-29 09:10:55] Requirement org.eclipse.rcp.feature.group [4.14.0,5.0.0)
+[2020-06-29 09:10:55] Requirement org.eclipse.egit.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.egit.gitflow.feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.egit.mylyn.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.epp.mpc.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.mylyn.bugzilla_feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.mylyn.context_feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.mylyn.ide_feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.mylyn.wikitext_feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.mylyn_feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.php.composer.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.php.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.php.mylyn.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.php.phpunit.feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.php.profiler.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.php.rdt.sync.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.tm.terminal.feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.wst.jsdt.feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.wst.xml_ui.feature.feature.group
+[2020-06-29 09:10:55] Requirement org.eclipse.oomph.setup.feature.group
+[2020-06-29 09:10:55] Repository http://download.eclipse.org/technology/epp/packages/2019-12
+[2020-06-29 09:10:55] Repository http://download.eclipse.org/releases/2019-12/201912181000
+[2020-06-29 09:10:55] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2020-06-29 09:10:59] Calculating requirements and dependencies.
+[2020-06-29 09:10:59] Computing prerequisite plan
+[2020-06-29 09:11:10] Fetching compositeArtifacts.jar from http://download.eclipse.org/oomph/updates/milestone/latest/ (428B)
+[2020-06-29 09:11:12] Fetching artifacts.xml.xz from http://download.eclipse.org/oomph/drops/release/1.17.0/
+[2020-06-29 09:11:13] Collecting 17 artifacts from http://download.eclipse.org/oomph/updates/milestone/latest
+[2020-06-29 09:11:13] Downloading org.eclipse.oomph.setup
+[2020-06-29 09:11:13] Downloading org.eclipse.nebula.widgets.tablecombo
+[2020-06-29 09:11:13] Downloading org.eclipse.oomph.p2
+[2020-06-29 09:11:13] Downloading org.eclipse.oomph.setup.core
+[2020-06-29 09:11:13] Downloading org.eclipse.oomph.setup.ui
+[2020-06-29 09:11:13] Downloading org.eclipse.oomph.p2.edit
+[2020-06-29 09:11:13] Downloading org.eclipse.oomph.setup.p2
+[2020-06-29 09:11:13] Downloading org.eclipse.oomph.jreinfo
+[2020-06-29 09:11:13] Downloading org.eclipse.oomph.resources
+[2020-06-29 09:11:13] Downloading org.eclipse.oomph.p2.core
+[2020-06-29 09:11:17] Fetching org.eclipse.oomph.setup.core_1.17.0.v20200606-0914.jar from http://download.eclipse.org/oomph/drops/release/1.17.0/features/ (19.27kB)
+[2020-06-29 09:11:19] Fetching org.eclipse.oomph.p2.edit_1.13.0.v20200403-0525.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (21.91kB)
+[2020-06-29 09:11:19] Fetching org.eclipse.oomph.resources_1.13.0.v20200409-0806.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (41.78kB)
+[2020-06-29 09:11:19] Fetching org.eclipse.oomph.p2_1.16.0.v20200405-0717.jar from http://download.eclipse.org/oomph/drops/release/1.17.0/features/ (19.09kB)
+[2020-06-29 09:11:19] Fetching org.eclipse.nebula.widgets.tablecombo_1.2.0.202006092019.jar from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (37.26kB)
+[2020-06-29 09:11:19] Fetching org.eclipse.oomph.setup.ui_1.17.0.v20200531-1047.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (234.66kB)
+[2020-06-29 09:11:19] Fetching org.eclipse.oomph.setup.core_1.17.0.v20200606-0914.jar from http://download.eclipse.org/oomph/drops/release/1.17.0/features/
+[2020-06-29 09:11:19] Fetching org.eclipse.oomph.setup_1.17.0.v20200606-0914.jar from http://download.eclipse.org/oomph/drops/release/1.17.0/features/ (19.15kB)
+[2020-06-29 09:11:19] Fetching org.eclipse.oomph.p2.core_1.16.0.v20200405-0717.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (125.01kB)
+[2020-06-29 09:11:19] Fetching org.eclipse.oomph.setup.p2_1.15.0.v20200531-1047.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (23.95kB)
+[2020-06-29 09:11:19] Fetching org.eclipse.oomph.jreinfo_1.13.0.v20200531-1213.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (17.88kB)
+[2020-06-29 09:11:20] Fetching org.eclipse.oomph.setup.ui_1.17.0.v20200531-1047.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:20] Fetching org.eclipse.oomph.setup.p2_1.15.0.v20200531-1047.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:21] Fetching org.eclipse.oomph.p2.core_1.16.0.v20200405-0717.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:21] Fetching org.eclipse.oomph.setup_1.17.0.v20200606-0914.jar from http://download.eclipse.org/oomph/drops/release/1.17.0/features/
+[2020-06-29 09:11:21] Fetching org.eclipse.oomph.jreinfo_1.13.0.v20200531-1213.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:22] Fetching org.eclipse.oomph.p2.edit_1.13.0.v20200403-0525.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:22] Fetching org.eclipse.oomph.p2_1.16.0.v20200405-0717.jar from http://download.eclipse.org/oomph/drops/release/1.17.0/features/
+[2020-06-29 09:11:23] Fetching org.eclipse.oomph.resources_1.13.0.v20200409-0806.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:23] Fetching org.eclipse.nebula.widgets.tablecombo_1.2.0.202006092019.jar from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:26] Downloading org.eclipse.oomph.setup
+[2020-06-29 09:11:29] Downloading org.eclipse.oomph.setup.core
+[2020-06-29 09:11:29] Fetching org.eclipse.oomph.jreinfo_1.13.0.v20200531-1213.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (17.88kB)
+[2020-06-29 09:11:29] Downloading org.eclipse.oomph.setup.ui.questionnaire
+[2020-06-29 09:11:29] Downloading org.eclipse.oomph.setup.editor
+[2020-06-29 09:11:30] Fetching org.eclipse.oomph.setup_1.17.0.v20200606-0914.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (136.48kB)
+[2020-06-29 09:11:31] Fetching org.eclipse.oomph.setup_1.17.0.v20200606-0914.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:31] Fetching org.eclipse.oomph.setup.core_1.17.0.v20200531-1047.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (107.58kB)
+[2020-06-29 09:11:32] Fetching org.eclipse.oomph.setup.ui.questionnaire_1.11.0.v20200407-0508.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (287.33kB)
+[2020-06-29 09:11:32] Fetching org.eclipse.oomph.setup.editor_1.17.0.v20200529-0748.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (171.66kB)
+[2020-06-29 09:11:33] Fetching org.eclipse.oomph.setup.core_1.17.0.v20200531-1047.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:33] Fetching org.eclipse.oomph.setup.ui.questionnaire_1.11.0.v20200407-0508.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:33] Fetching org.eclipse.oomph.setup.editor_1.17.0.v20200529-0748.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:33] Downloading org.eclipse.oomph.ui
+[2020-06-29 09:11:33] Downloading org.eclipse.oomph.util
+[2020-06-29 09:11:34] Downloading org.eclipse.oomph.p2
+[2020-06-29 09:11:36] Fetching org.eclipse.oomph.setup.core_1.17.0.v20200606-0914.jar from http://download.eclipse.org/oomph/drops/release/1.17.0/features/ (19.27kB)
+[2020-06-29 09:11:37] Fetching org.eclipse.oomph.ui_1.14.0.v20200604-0515.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (127.44kB)
+[2020-06-29 09:11:37] Fetching org.eclipse.oomph.util_1.14.0.v20200319-1415.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (76.31kB)
+[2020-06-29 09:11:39] Fetching org.eclipse.oomph.p2_1.13.0.v20200403-0525.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (34.76kB)
+[2020-06-29 09:11:40] Fetching org.eclipse.oomph.ui_1.14.0.v20200604-0515.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:40] Fetching org.eclipse.oomph.util_1.14.0.v20200319-1415.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:40] Fetching org.eclipse.oomph.p2_1.13.0.v20200403-0525.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/
+[2020-06-29 09:11:47] Fetching org.eclipse.oomph.p2_1.13.0.v20200403-0525.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (34.76kB)
+[2020-06-29 09:11:59] Fetching org.eclipse.oomph.setup.core_1.17.0.v20200531-1047.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (107.58kB)
+[2020-06-29 09:12:04] Fetching org.eclipse.oomph.p2_1.13.0.v20200403-0525.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (34.76kB)
+[2020-06-29 09:12:05] Fetching org.eclipse.oomph.setup.editor_1.17.0.v20200529-0748.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (171.66kB)
+[2020-06-29 09:12:12] Fetching org.eclipse.oomph.setup.core_1.17.0.v20200531-1047.jar.pack.gz from http://download.eclipse.org/oomph/drops/release/1.17.0/plugins/ (107.58kB)
+[2020-06-29 09:12:16] Mirrored 17 artifacts from http://download.eclipse.org/oomph/drops/release/1.17.0/ at 3kb/s
+[2020-06-29 09:12:16] Collected 17 artifacts for http://download.eclipse.org/oomph/updates/milestone/latest in 63.001s
+[2020-06-29 09:12:16] Collecting 3 artifacts from http://download.eclipse.org/technology/epp/packages/2019-12
+[2020-06-29 09:12:20] Downloading org.eclipse.epp.package.php.feature
+[2020-06-29 09:12:20] Downloading epp.package.php.executable.win32.win32.x86_64
+[2020-06-29 09:12:20] Downloading org.eclipse.epp.package.php
+[2020-06-29 09:12:23] Fetching org.eclipse.epp.package.php.feature_4.14.0.20191212-1200.jar from http://mirrors.neusoft.edu.cn/eclipse/technology/epp/packages/2019-12/features/ (19.72kB)
+[2020-06-29 09:12:24] Fetching org.eclipse.epp.package.php.feature_4.14.0.20191212-1200.jar from http://mirrors.neusoft.edu.cn/eclipse/technology/epp/packages/2019-12/features/
+[2020-06-29 09:12:28] Fetching epp.package.php.executable.win32.win32.x86_64_4.14.0.20191212-1200 from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//technology/epp/packages/2019-12/binary/ (150.98kB)
+[2020-06-29 09:12:30] Fetching epp.package.php.executable.win32.win32.x86_64_4.14.0.20191212-1200 from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//technology/epp/packages/2019-12/binary/
+[2020-06-29 09:12:37] Fetching org.eclipse.epp.package.php_4.14.0.20191212-1200.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//technology/epp/packages/2019-12/plugins/ (52.19kB)
+[2020-06-29 09:12:39] Fetching org.eclipse.epp.package.php_4.14.0.20191212-1200.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//technology/epp/packages/2019-12/plugins/
+[2020-06-29 09:12:42] Mirrored 1 artifacts from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//technology/epp/packages/2019-12/ at 10kb/s
+[2020-06-29 09:12:42] Mirrored 1 artifacts from http://mirrors.neusoft.edu.cn/eclipse/technology/epp/packages/2019-12/ at 4kb/s
+[2020-06-29 09:12:42] Mirrored 1 artifacts from https://mirrors.nju.edu.cn/eclipse//technology/epp/packages/2019-12/ at 2kb/s
+[2020-06-29 09:12:42] Collected 3 artifacts for http://download.eclipse.org/technology/epp/packages/2019-12 in 25.69s
+[2020-06-29 09:12:42] Collecting 183 artifacts from http://download.eclipse.org/releases/2019-12/201912181000
+[2020-06-29 09:12:43] Downloading org.eclipse.platform_root
+[2020-06-29 09:12:43] Downloading org.eclipse.wst.json.jshint.ui
+[2020-06-29 09:12:43] Downloading org.eclipse.wst.json.bower.core
+[2020-06-29 09:12:43] Downloading org.eclipse.dltk.mylyn_root
+[2020-06-29 09:12:43] Downloading org.eclipse.wst.json.npm.core
+[2020-06-29 09:12:43] Downloading org.eclipse.wst.web.ui.infopop
+[2020-06-29 09:12:43] Downloading org.eclipse.wst.json.eslint.core
+[2020-06-29 09:12:43] Downloading org.eclipse.wst.jsdt.chromium.debug
+[2020-06-29 09:12:43] Downloading org.eclipse.dltk.annotations
+[2020-06-29 09:12:43] Downloading org.eclipse.wst.html.ui.infopop
+[2020-06-29 09:12:43] Downloading org.eclipse.dltk.core_root
+[2020-06-29 09:12:46] Fetching org.eclipse.wst.json.bower.core_1.0.0.v201901071922.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/ (8.17kB)
+[2020-06-29 09:12:46] Downloading org.eclipse.wst.json.jshint.core
+[2020-06-29 09:12:46] Fetching org.eclipse.dltk.mylyn_root_6.0.0.201911302123 from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/binary/ (7.54kB)
+[2020-06-29 09:12:46] Downloading org.eclipse.php.rdt.sync.ui
+[2020-06-29 09:12:47] Fetching org.eclipse.dltk.annotations_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (7.76kB)
+[2020-06-29 09:12:47] Downloading org.eclipse.wst.server.ui.infopop
+[2020-06-29 09:12:47] Fetching org.eclipse.dltk.core_root_6.0.0.201911302123 from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/binary/ (7.54kB)
+[2020-06-29 09:12:47] Downloading org.eclipse.dltk
+[2020-06-29 09:12:48] Fetching org.eclipse.wst.jsdt.chromium.debug_0.4.0.v201903222101.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (10.23kB)
+[2020-06-29 09:12:48] Downloading org.eclipse.dltk.core.index
+[2020-06-29 09:12:48] Fetching org.eclipse.wst.json.npm.core_1.0.0.v201901071922.jar.pack.gz from http://eclipse.stu.edu.tw/releases/2019-12/201912181000/plugins/ (8.13kB)
+[2020-06-29 09:12:48] Fetching org.eclipse.wst.json.eslint.core_1.0.0.v201901071922.jar.pack.gz from http://eclipse.stu.edu.tw/releases/2019-12/201912181000/plugins/ (8.14kB)
+[2020-06-29 09:12:49] Fetching org.eclipse.wst.json.jshint.ui_1.0.200.v201904210526.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (9.42kB)
+[2020-06-29 09:12:49] Fetching org.eclipse.wst.html.ui.infopop_1.0.201.v201903222120.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/ (10.09kB)
+[2020-06-29 09:12:49] Downloading org.eclipse.wst.jsdt.chromium.wip.eclipse
+[2020-06-29 09:12:50] Fetching org.eclipse.wst.web.ui.infopop_1.0.300.v201903222120.jar.pack.gz from http://ftp.daumkakao.com/eclipse/releases/2019-12/201912181000/plugins/ (8.41kB)
+[2020-06-29 09:12:50] Downloading org.eclipse.cdt.core.win32
+[2020-06-29 09:12:51] Fetching org.eclipse.wst.html.ui.infopop_1.0.201.v201903222120.jar.pack.gz from http://ftp.jaist.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:12:51] Fetching org.eclipse.wst.json.npm.core_1.0.0.v201901071922.jar.pack.gz from http://eclipse.stu.edu.tw/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:12:51] Fetching org.eclipse.wst.json.eslint.core_1.0.0.v201901071922.jar.pack.gz from http://eclipse.stu.edu.tw/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:12:51] Downloading org.eclipse.wst.json.schemaprocessor
+[2020-06-29 09:12:51] Downloading org.eclipse.wst.json.eslint.ui
+[2020-06-29 09:12:52] Fetching org.eclipse.wst.jsdt.chromium.wip.eclipse_0.5.200.v201903222101.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/ (8.55kB)
+[2020-06-29 09:12:53] Downloading org.eclipse.wst.json.bower.ui
+[2020-06-29 09:12:54] Fetching org.eclipse.cdt.core.win32_5.4.2.201811241055.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/ (9.1kB)
+[2020-06-29 09:12:54] Downloading org.eclipse.php.mylyn.ui
+[2020-06-29 09:12:55] Fetching org.eclipse.wst.json.bower.ui_1.0.200.v201904210526.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/ (13.96kB)
+[2020-06-29 09:12:55] Fetching org.eclipse.wst.json.schemaprocessor_1.0.200.v201901071922.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/ (8.97kB)
+[2020-06-29 09:12:55] Fetching org.eclipse.wst.json.eslint.ui_1.0.200.v201904210526.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/ (9.42kB)
+[2020-06-29 09:12:56] Fetching org.eclipse.php.rdt.sync.ui_7.0.0.201912041612.jar.pack.gz from http://ftp.kaist.ac.kr/eclipse/releases/2019-12/201912181000/plugins/ (12.43kB)
+[2020-06-29 09:12:57] Fetching org.eclipse.dltk.core.index_6.0.0.201911302123.jar.pack.gz from http://mirror.library.ucy.ac.cy/eclipse/releases/2019-12/201912181000/plugins/ (12.9kB)
+[2020-06-29 09:12:57] Downloading org.eclipse.ptp.rdt.sync.git.ui
+[2020-06-29 09:12:58] Fetching org.eclipse.php.mylyn.ui_7.0.0.201912041612.jar.pack.gz from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/plugins/ (16.5kB)
+[2020-06-29 09:12:59] Fetching org.eclipse.php.mylyn.ui_7.0.0.201912041612.jar.pack.gz from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:12:59] Downloading org.eclipse.cdt.core.native
+[2020-06-29 09:12:59] Fetching org.eclipse.wst.json.bower.ui_1.0.200.v201904210526.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:00] Fetching org.eclipse.wst.json.schemaprocessor_1.0.200.v201901071922.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:00] Fetching org.eclipse.wst.json.eslint.ui_1.0.200.v201904210526.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:00] Fetching org.eclipse.ptp.rdt.sync.git.ui_1.0.0.201912111948.jar.pack.gz from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/plugins/ (16.64kB)
+[2020-06-29 09:13:01] Fetching org.eclipse.dltk_6.0.0.201911302123.jar.pack.gz from http://mirrors.ustc.edu.cn/eclipse/releases/2019-12/201912181000/plugins/ (12.87kB)
+[2020-06-29 09:13:02] Fetching org.eclipse.wst.server.ui.infopop_1.1.200.v201901310132.jar.pack.gz from https://ftp.harukasan.org/eclipse/releases/2019-12/201912181000/plugins/ (12.84kB)
+[2020-06-29 09:13:02] Fetching org.eclipse.dltk_6.0.0.201911302123.jar.pack.gz from http://mirrors.ustc.edu.cn/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:02] Downloading org.eclipse.tm.terminal.connector.local.feature
+[2020-06-29 09:13:03] Fetching org.eclipse.cdt.core.native_5.10.300.201910171407.jar.pack.gz from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/plugins/ (17.19kB)
+[2020-06-29 09:13:04] Downloading org.eclipse.tm.terminal.view.feature
+[2020-06-29 09:13:04] Downloading org.eclipse.tm.terminal.control.feature
+[2020-06-29 09:13:05] Downloading org.eclipse.tm.terminal.connector.telnet.feature
+[2020-06-29 09:13:05] Fetching org.eclipse.tm.terminal.control.feature_4.5.102.201911240504.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (18.1kB)
+[2020-06-29 09:13:05] Fetching org.eclipse.cdt.core.native_5.10.300.201910171407.jar.pack.gz from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:06] Fetching org.eclipse.tm.terminal.connector.local.feature_4.5.100.201911240504.jar from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/features/ (18.07kB)
+[2020-06-29 09:13:06] Downloading org.eclipse.tm.terminal.connector.ssh.feature
+[2020-06-29 09:13:07] Fetching org.eclipse.tm.terminal.connector.local.feature_4.5.100.201911240504.jar from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:07] Fetching org.eclipse.wst.json.schemaprocessor_1.0.200.v201901071922.jar.pack.gz from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/plugins/ (8.97kB)
+[2020-06-29 09:13:07] Downloading org.eclipse.tm.terminal.feature
+[2020-06-29 09:13:07] Fetching org.eclipse.tm.terminal.view.feature_4.5.200.201911240504.jar from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/features/ (18.09kB)
+[2020-06-29 09:13:08] Fetching org.eclipse.tm.terminal.connector.telnet.feature_4.5.100.201911240504.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (18.11kB)
+[2020-06-29 09:13:08] Fetching org.eclipse.tm.terminal.control.feature_4.5.102.201911240504.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:09] Fetching org.eclipse.wst.server.ui.infopop_1.1.200.v201901310132.jar.pack.gz from https://ftp.harukasan.org/eclipse/releases/2019-12/201912181000/plugins/ (12.84kB)
+[2020-06-29 09:13:09] Fetching org.eclipse.tm.terminal.connector.telnet.feature_4.5.100.201911240504.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:09] Downloading org.eclipse.wst.json.npm.ui
+[2020-06-29 09:13:09] Fetching org.eclipse.tm.terminal.connector.ssh.feature_4.5.100.201911240504.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (18.15kB)
+[2020-06-29 09:13:09] Fetching org.eclipse.wst.json.jshint.core_1.0.1.v201908281850.jar.pack.gz from https://mirrors.tuna.tsinghua.edu.cn/eclipse/releases/2019-12/201912181000/plugins/ (8.15kB)
+[2020-06-29 09:13:09] Downloading org.eclipse.ptp.remote.server.core
+[2020-06-29 09:13:09] Downloading org.eclipse.egit.gitflow.feature
+[2020-06-29 09:13:10] Downloading org.eclipse.wst.jsdt.js.gulp
+[2020-06-29 09:13:10] Downloading org.eclipse.wst.jsdt.chromium.debug.feature
+[2020-06-29 09:13:10] Fetching org.eclipse.tm.terminal.feature_4.5.200.201911240504.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (18.26kB)
+[2020-06-29 09:13:11] Fetching org.eclipse.ptp.remote.server.core_3.0.0.201912111948.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (18.55kB)
+[2020-06-29 09:13:11] Fetching org.eclipse.wst.jsdt.chromium.debug.feature_0.6.100.v201908270117.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (19.2kB)
+[2020-06-29 09:13:12] Fetching org.eclipse.tm.terminal.connector.ssh.feature_4.5.100.201911240504.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:12] Downloading org.eclipse.wst.jsdt.js.grunt
+[2020-06-29 09:13:12] Fetching org.eclipse.ptp.remote.server.core_3.0.0.201912111948.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:12] Fetching org.eclipse.tm.terminal.feature_4.5.200.201911240504.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:12] Downloading org.eclipse.wst.jsdt.feature
+[2020-06-29 09:13:12] Fetching org.eclipse.egit.gitflow.feature_5.6.0.201912101111-r.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (18.9kB)
+[2020-06-29 09:13:12] Fetching org.eclipse.tm.terminal.view.feature_4.5.200.201911240504.jar from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:12] Downloading org.eclipse.wst.web_ui.feature
+[2020-06-29 09:13:13] Downloading org.eclipse.wst.jsdt.nodejs.feature
+[2020-06-29 09:13:13] Fetching org.eclipse.wst.jsdt.js.grunt_1.0.200.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (19.27kB)
+[2020-06-29 09:13:13] Fetching org.eclipse.wst.json.npm.ui_1.0.100.v201904210526.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (11.54kB)
+[2020-06-29 09:13:13] Downloading org.eclipse.dltk.logconsole.ui
+[2020-06-29 09:13:13] Fetching org.eclipse.wst.jsdt.feature_2.1.4.v201912012351.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (19.37kB)
+[2020-06-29 09:13:14] Fetching org.eclipse.wst.jsdt.js.gulp_1.0.200.v201903222101.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (19.04kB)
+[2020-06-29 09:13:14] Fetching org.eclipse.wst.jsdt.chromium.debug.feature_0.6.100.v201908270117.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:14] Fetching org.eclipse.egit.gitflow.feature_5.6.0.201912101111-r.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:14] Downloading org.eclipse.php.phpunit.feature
+[2020-06-29 09:13:14] Fetching org.eclipse.wst.jsdt.nodejs.feature_1.1.0.v201908270117.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (19.68kB)
+[2020-06-29 09:13:14] Fetching org.eclipse.wst.jsdt.js.grunt_1.0.200.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:15] Downloading org.eclipse.php.mylyn
+[2020-06-29 09:13:15] Fetching org.eclipse.wst.jsdt.feature_2.1.4.v201912012351.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:15] Fetching org.eclipse.dltk.logconsole.ui_6.0.0.201911302123.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (11.6kB)
+[2020-06-29 09:13:15] Downloading org.eclipse.php.rdt.sync
+[2020-06-29 09:13:15] Fetching org.eclipse.wst.jsdt.js.gulp_1.0.200.v201903222101.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:16] Downloading org.eclipse.php.profiler
+[2020-06-29 09:13:16] Fetching org.eclipse.php.mylyn_7.0.0.201912041612.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (20.05kB)
+[2020-06-29 09:13:16] Fetching org.eclipse.php.phpunit.feature_7.0.0.201912041612.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (20.04kB)
+[2020-06-29 09:13:16] Downloading org.eclipse.php.composer
+[2020-06-29 09:13:17] Fetching org.eclipse.php.rdt.sync_7.0.0.201912041612.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (20.11kB)
+[2020-06-29 09:13:17] Fetching org.eclipse.wst.web_ui.feature_3.16.0.v201911262315.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (19.53kB)
+[2020-06-29 09:13:17] Fetching org.eclipse.wst.jsdt.nodejs.feature_1.1.0.v201908270117.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:17] Downloading org.eclipse.php
+[2020-06-29 09:13:17] Fetching org.eclipse.ptp.rdt.sync.git.ui_1.0.0.201912111948.jar.pack.gz from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/plugins/ (16.64kB)
+[2020-06-29 09:13:17] Fetching org.eclipse.php.mylyn_7.0.0.201912041612.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:17] Fetching org.eclipse.php.profiler_7.0.0.201912041612.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (20.11kB)
+[2020-06-29 09:13:17] Downloading org.eclipse.remote.jsch.ui
+[2020-06-29 09:13:18] Fetching org.eclipse.php.phpunit.feature_7.0.0.201912041612.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:18] Fetching org.eclipse.php.composer_7.0.0.201912041612.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (20.11kB)
+[2020-06-29 09:13:18] Fetching org.eclipse.php_7.0.0.201912041612.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (20.62kB)
+[2020-06-29 09:13:18] Downloading org.eclipse.wst.jsdt.js.node.common
+[2020-06-29 09:13:18] Fetching org.eclipse.tm.terminal.connector.local.feature_4.5.100.201911240504.jar from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/features/ (18.07kB)
+[2020-06-29 09:13:19] Downloading org.eclipse.php.debug.daemon
+[2020-06-29 09:13:19] Fetching org.eclipse.php.rdt.sync_7.0.0.201912041612.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:19] Fetching org.eclipse.php.debug.daemon_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (11.93kB)
+[2020-06-29 09:13:19] Fetching org.eclipse.wst.jsdt.js.node.common_1.0.0.v201903222101.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (11.53kB)
+[2020-06-29 09:13:20] Fetching org.eclipse.wst.web_ui.feature_3.16.0.v201911262315.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:20] Downloading javax.xml.stream
+[2020-06-29 09:13:20] Fetching org.eclipse.php.profiler_7.0.0.201912041612.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:20] Fetching javax.xml.stream_1.0.1.v201004272200.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (21.59kB)
+[2020-06-29 09:13:21] Downloading org.eclipse.wst.jsdt.chromium.debug.jsdtbridge
+[2020-06-29 09:13:21] Fetching org.eclipse.remote.jsch.ui_1.0.0.201909031456.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (20.84kB)
+[2020-06-29 09:13:21] Fetching org.eclipse.wst.jsdt.chromium.debug.jsdtbridge_0.5.200.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (11.8kB)
+[2020-06-29 09:13:21] Downloading org.eclipse.dltk.logconsole
+[2020-06-29 09:13:21] Downloading org.eclipse.rcp_root
+[2020-06-29 09:13:21] Downloading org.eclipse.wst.jsdt.js.npm
+[2020-06-29 09:13:22] Fetching org.eclipse.dltk.logconsole_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (11.97kB)
+[2020-06-29 09:13:22] Downloading org.eclipse.remote.console
+[2020-06-29 09:13:22] Fetching org.eclipse.remote.jsch.ui_1.0.0.201909031456.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (20.84kB)
+[2020-06-29 09:13:22] Downloading org.eclipse.ptp.rdt.sync.core
+[2020-06-29 09:13:22] Fetching org.eclipse.wst.jsdt.js.npm_1.0.300.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (25.72kB)
+[2020-06-29 09:13:22] Downloading org.eclipse.tm.terminal.connector.local
+[2020-06-29 09:13:23] Fetching org.eclipse.ptp.rdt.sync.core_6.0.0.201912111948.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (26.66kB)
+[2020-06-29 09:13:23] Fetching org.eclipse.wst.jsdt.js.npm_1.0.300.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:23] Fetching org.eclipse.remote.console_1.2.0.201909031456.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (26.44kB)
+[2020-06-29 09:13:24] Fetching org.eclipse.tm.terminal.connector.local_4.5.100.201901312304.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (27.62kB)
+[2020-06-29 09:13:24] Downloading org.eclipse.wst.jsdt.debug.rhino
+[2020-06-29 09:13:24] Downloading org.eclipse.dltk.validators.externalchecker
+[2020-06-29 09:13:24] Fetching org.eclipse.ptp.rdt.sync.core_6.0.0.201912111948.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:25] Fetching org.eclipse.remote.console_1.2.0.201909031456.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:25] Fetching org.eclipse.tm.terminal.connector.local_4.5.100.201901312304.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:25] Downloading org.eclipse.wst.jsdt.debug.transport
+[2020-06-29 09:13:26] Fetching org.eclipse.wst.jsdt.debug.rhino_1.0.500.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (27.81kB)
+[2020-06-29 09:13:26] Downloading org.eclipse.wst.jsdt.js.cli
+[2020-06-29 09:13:27] Fetching org.eclipse.wst.jsdt.debug.transport_1.0.300.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (14.53kB)
+[2020-06-29 09:13:27] Downloading org.eclipse.wst.jsdt.js.node
+[2020-06-29 09:13:28] Downloading org.eclipse.wst.server_userdoc.feature
+[2020-06-29 09:13:28] Downloading org.eclipse.wst.server_core.feature
+[2020-06-29 09:13:28] Downloading org.eclipse.wst.server_ui.feature
+[2020-06-29 09:13:28] Downloading org.eclipse.dltk.console
+[2020-06-29 09:13:28] Fetching org.eclipse.wst.jsdt.js.node_1.1.100.v201903222101.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (29.97kB)
+[2020-06-29 09:13:29] Fetching org.eclipse.wst.jsdt.debug.rhino_1.0.500.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:29] Downloading org.eclipse.tm.terminal.connector.process
+[2020-06-29 09:13:29] Fetching org.eclipse.wst.server_userdoc.feature_3.3.300.v201901310132.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (30.61kB)
+[2020-06-29 09:13:29] Fetching org.eclipse.dltk.validators.externalchecker_6.0.0.201911302123.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (28.3kB)
+[2020-06-29 09:13:29] Fetching org.eclipse.php.composer_7.0.0.201912041612.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (20.11kB)
+[2020-06-29 09:13:30] Fetching org.eclipse.wst.jsdt.js.node_1.1.100.v201903222101.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:30] Downloading org.eclipse.wst.json_core.feature
+[2020-06-29 09:13:30] Fetching org.eclipse.tm.terminal.connector.process_4.5.100.201901312304.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (31.04kB)
+[2020-06-29 09:13:31] Fetching org.eclipse.wst.server_userdoc.feature_3.3.300.v201901310132.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:31] Fetching org.eclipse.php.composer_7.0.0.201912041612.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:32] Fetching org.eclipse.wst.json_core.feature_1.1.8.v201909302219.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (31.84kB)
+[2020-06-29 09:13:33] Fetching org.eclipse.dltk.validators.externalchecker_6.0.0.201911302123.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (28.3kB)
+[2020-06-29 09:13:33] Fetching org.eclipse.dltk.console_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (15.76kB)
+[2020-06-29 09:13:33] Fetching org.eclipse.wst.jsdt.js.cli_1.0.0.v201903222101.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (15.19kB)
+[2020-06-29 09:13:33] Fetching org.eclipse.tm.terminal.connector.process_4.5.100.201901312304.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:33] Downloading org.eclipse.wst.json_ui.feature
+[2020-06-29 09:13:34] Downloading org.eclipse.wst.web_userdoc.feature
+[2020-06-29 09:13:34] Fetching org.eclipse.dltk.validators.externalchecker_6.0.0.201911302123.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:34] Fetching org.eclipse.wst.server_core.feature_3.3.800.v201910252115.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/ (30.63kB)
+[2020-06-29 09:13:34] Fetching org.eclipse.wst.server_ui.feature_3.3.900.v201910252115.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/ (30.71kB)
+[2020-06-29 09:13:35] Fetching org.eclipse.wst.json_ui.feature_1.1.8.v201909302219.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (31.86kB)
+[2020-06-29 09:13:35] Downloading org.apache.commons.exec
+[2020-06-29 09:13:35] Fetching org.eclipse.dltk.console_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:35] Fetching org.eclipse.wst.web_userdoc.feature_3.16.0.v201909302219.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (31.9kB)
+[2020-06-29 09:13:36] Fetching org.eclipse.wst.server_core.feature_3.3.800.v201910252115.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/ (30.63kB)
+[2020-06-29 09:13:36] Fetching org.eclipse.wst.server_ui.feature_3.3.900.v201910252115.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/ (30.71kB)
+[2020-06-29 09:13:36] Fetching org.eclipse.wst.json_ui.feature_1.1.8.v201909302219.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:36] Fetching org.apache.commons.exec_1.1.0.v201301240602.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (31.92kB)
+[2020-06-29 09:13:37] Fetching org.eclipse.wst.json_core.feature_1.1.8.v201909302219.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:37] Fetching org.eclipse.wst.web_userdoc.feature_3.16.0.v201909302219.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:38] Fetching org.eclipse.wst.server_core.feature_3.3.800.v201910252115.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/
+[2020-06-29 09:13:38] Downloading org.eclipse.wst.web_core.feature
+[2020-06-29 09:13:38] Downloading org.eclipse.dltk.mylyn
+[2020-06-29 09:13:38] Fetching org.apache.commons.exec_1.1.0.v201301240602.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:38] Fetching org.eclipse.wst.web_core.feature_3.16.0.v201911262147.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (31.98kB)
+[2020-06-29 09:13:39] Fetching org.eclipse.wst.server_ui.feature_3.3.900.v201910252115.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/
+[2020-06-29 09:13:39] Downloading org.eclipse.dltk.core.index.lucene
+[2020-06-29 09:13:39] Downloading org.eclipse.dltk.core
+[2020-06-29 09:13:39] Downloading org.eclipse.dltk.validators.ui
+[2020-06-29 09:13:39] Fetching org.eclipse.wst.web_core.feature_3.16.0.v201911262147.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:40] Downloading org.eclipse.dltk.validators.core
+[2020-06-29 09:13:41] Fetching org.eclipse.dltk.validators.ui_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (32.83kB)
+[2020-06-29 09:13:41] Fetching org.eclipse.dltk.mylyn_6.0.0.201911302123.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (32.23kB)
+[2020-06-29 09:13:41] Downloading org.eclipse.wst.jsdt.debug.rhino.debugger
+[2020-06-29 09:13:41] Fetching org.eclipse.dltk.validators.core_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (32.86kB)
+[2020-06-29 09:13:41] Downloading org.eclipse.wst.jsdt.support.firefox
+[2020-06-29 09:13:42] Fetching org.eclipse.dltk.validators.ui_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:42] Fetching org.eclipse.dltk.mylyn_6.0.0.201911302123.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:42] Fetching org.eclipse.dltk.validators.core_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:42] Fetching org.eclipse.wst.jsdt.debug.rhino.debugger_1.0.600.v201903222047.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (33.48kB)
+[2020-06-29 09:13:42] Downloading org.eclipse.dltk.console.ui
+[2020-06-29 09:13:43] Fetching org.eclipse.wst.jsdt.support.firefox_1.0.501.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (25.74kB)
+[2020-06-29 09:13:43] Fetching org.eclipse.wst.jsdt.js.cli_1.0.0.v201903222101.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (15.19kB)
+[2020-06-29 09:13:43] Downloading org.eclipse.remote
+[2020-06-29 09:13:44] Fetching org.eclipse.wst.jsdt.debug.rhino.debugger_1.0.600.v201903222047.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:44] Downloading org.eclipse.ptp.remote
+[2020-06-29 09:13:44] Fetching org.eclipse.dltk.core.index.lucene_6.0.0.201911302123.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/ (32.31kB)
+[2020-06-29 09:13:44] Fetching org.eclipse.dltk.core_6.0.0.201911302123.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/ (32.56kB)
+[2020-06-29 09:13:44] Downloading org.eclipse.ptp.rdt.sync
+[2020-06-29 09:13:44] Fetching org.eclipse.dltk.console.ui_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (33.99kB)
+[2020-06-29 09:13:44] Fetching org.eclipse.wst.jsdt.support.firefox_1.0.501.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:45] Fetching org.eclipse.wst.jsdt.js.cli_1.0.0.v201903222101.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:45] Fetching org.eclipse.remote_3.0.1.201909031456.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/ (36.92kB)
+[2020-06-29 09:13:45] Downloading org.eclipse.egit.gitflow.ui
+[2020-06-29 09:13:46] Fetching org.eclipse.dltk.core.index.lucene_6.0.0.201911302123.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/ (32.31kB)
+[2020-06-29 09:13:46] Fetching org.eclipse.ptp.rdt.sync_9.3.1.201912111948.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (36.99kB)
+[2020-06-29 09:13:46] Fetching org.eclipse.egit.gitflow.ui_5.6.0.201912101111-r.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (38.13kB)
+[2020-06-29 09:13:46] Downloading org.eclipse.tm.terminal.view.core
+[2020-06-29 09:13:47] Fetching org.eclipse.ptp.remote_9.3.1.201912111948.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/ (36.94kB)
+[2020-06-29 09:13:47] Fetching org.eclipse.ptp.rdt.sync_9.3.1.201912111948.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:47] Fetching org.eclipse.dltk.core.index.lucene_6.0.0.201911302123.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/
+[2020-06-29 09:13:47] Downloading org.eclipse.wst.web.ui
+[2020-06-29 09:13:47] Fetching org.eclipse.dltk.core_6.0.0.201911302123.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/ (32.56kB)
+[2020-06-29 09:13:47] Fetching org.eclipse.remote_3.0.1.201909031456.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:47] Fetching org.eclipse.egit.gitflow.ui_5.6.0.201912101111-r.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:47] Downloading org.eclipse.php.composer.core
+[2020-06-29 09:13:48] Fetching org.eclipse.tm.terminal.view.core_4.5.100.201901312304.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (41.6kB)
+[2020-06-29 09:13:48] Downloading org.eclipse.wst.jsdt.debug.crossfire
+[2020-06-29 09:13:48] Fetching org.eclipse.ptp.remote_9.3.1.201912111948.jar from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/features/
+[2020-06-29 09:13:49] Fetching org.eclipse.dltk.console.ui_6.0.0.201911302123.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:49] Fetching org.eclipse.php.composer.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (45.31kB)
+[2020-06-29 09:13:49] Fetching org.eclipse.tm.terminal.view.core_4.5.100.201901312304.jar from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:50] Downloading org.eclipse.wst.jsdt.chromium.debug.js
+[2020-06-29 09:13:50] Downloading org.eclipse.php.builtin.server.core
+[2020-06-29 09:13:51] Fetching org.eclipse.php.composer.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:51] Fetching org.eclipse.php.builtin.server.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (47.51kB)
+[2020-06-29 09:13:52] Fetching org.eclipse.wst.jsdt.debug.crossfire_1.0.500.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (46.61kB)
+[2020-06-29 09:13:52] Fetching org.eclipse.wst.web.ui_1.2.100.v201902281912.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (42.86kB)
+[2020-06-29 09:13:53] Fetching org.eclipse.php.builtin.server.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:53] Downloading org.eclipse.wst.jsdt.js.common
+[2020-06-29 09:13:53] Downloading org.eclipse.wst.jsdt.doc
+[2020-06-29 09:13:55] Fetching org.eclipse.wst.jsdt.chromium.debug.js_0.1.200.v201903222101.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (21.42kB)
+[2020-06-29 09:13:55] Fetching org.eclipse.wst.jsdt.js.common_1.0.200.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (20.17kB)
+[2020-06-29 09:13:55] Fetching org.eclipse.wst.jsdt.doc_2.0.200.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (3.64MB)
+[2020-06-29 09:13:56] Fetching org.eclipse.wst.web.ui_1.2.100.v201902281912.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (42.86kB)
+[2020-06-29 09:13:56] Fetching org.eclipse.dltk.core_6.0.0.201911302123.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/features/ (32.56kB)
+[2020-06-29 09:13:56] Downloading org.eclipse.php.core
+[2020-06-29 09:13:57] Downloading org.eclipse.cdt.core
+[2020-06-29 09:13:57] Fetching org.eclipse.wst.jsdt.js.common_1.0.200.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:57] Downloading org.eclipse.wst.jsdt.core
+[2020-06-29 09:13:58] Fetching org.eclipse.php.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (5.46MB)
+[2020-06-29 09:13:58] Fetching org.eclipse.wst.jsdt.doc_2.0.200.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:13:58] Fetching org.eclipse.cdt.core_6.10.0.201912051559.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (1.63MB)
+[2020-06-29 09:13:59] Fetching org.eclipse.wst.jsdt.debug.crossfire_1.0.500.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (46.61kB)
+[2020-06-29 09:13:59] Fetching org.eclipse.php.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:14:00] Fetching org.eclipse.cdt.core_6.10.0.201912051559.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:14:00] Downloading org.eclipse.php.help
+[2020-06-29 09:14:04] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:14:06] Fetching org.eclipse.wst.web.ui_1.2.100.v201902281912.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (42.86kB)
+[2020-06-29 09:14:08] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:14:09] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:14:10] Downloading org.eclipse.php.ui
+[2020-06-29 09:14:12] Fetching org.eclipse.wst.jsdt.js.common_1.0.200.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (20.17kB)
+[2020-06-29 09:14:12] Downloading org.eclipse.wst.jsdt.ui
+[2020-06-29 09:14:12] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:14:13] Fetching org.eclipse.wst.jsdt.debug.crossfire_1.0.500.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (46.61kB)
+[2020-06-29 09:14:14] Fetching org.eclipse.wst.jsdt.chromium.debug.js_0.1.200.v201903222101.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (21.42kB)
+[2020-06-29 09:14:14] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:14:17] Fetching org.eclipse.wst.jsdt.debug.crossfire_1.0.500.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:14:17] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:14:18] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:14:18] Fetching org.eclipse.php.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (5.46MB)
+[2020-06-29 09:14:18] Fetching org.eclipse.wst.jsdt.ui_2.0.401.v201912012351.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (2.32MB)
+[2020-06-29 09:14:20] Fetching org.eclipse.wst.jsdt.ui_2.0.401.v201912012351.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/
+[2020-06-29 09:14:21] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:14:21] Fetching org.eclipse.wst.jsdt.chromium.debug.js_0.1.200.v201903222101.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (21.42kB)
+[2020-06-29 09:14:22] Downloading org.eclipse.dltk.ui
+[2020-06-29 09:14:22] Fetching org.eclipse.wst.web.ui_1.2.100.v201902281912.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (42.86kB)
+[2020-06-29 09:14:22] Downloading org.eclipse.birt.chart.engine
+[2020-06-29 09:14:27] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:14:29] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:14:31] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:14:33] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:14:36] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:14:36] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:14:40] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:14:44] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:14:45] Fetching org.eclipse.wst.jsdt.debug.crossfire_1.0.500.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (46.61kB)
+[2020-06-29 09:14:52] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:14:56] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:14:58] Fetching org.eclipse.php.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (5.46MB)
+[2020-06-29 09:15:04] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:15:05] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:15:08] Fetching org.eclipse.php.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (5.46MB)
+[2020-06-29 09:15:08] Fetching org.eclipse.cdt.core_6.10.0.201912051559.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (1.63MB)
+[2020-06-29 09:15:09] Fetching org.eclipse.wst.jsdt.debug.crossfire_1.0.500.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (46.61kB)
+[2020-06-29 09:15:09] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:15:10] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:15:16] Fetching org.eclipse.wst.jsdt.ui_2.0.401.v201912012351.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (2.32MB)
+[2020-06-29 09:15:18] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:15:21] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:15:26] Fetching org.eclipse.cdt.core_6.10.0.201912051559.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (1.63MB)
+[2020-06-29 09:15:26] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:15:32] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:15:32] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:15:33] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:15:34] Fetching org.eclipse.wst.jsdt.ui_2.0.401.v201912012351.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (2.32MB)
+[2020-06-29 09:15:34] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:15:35] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/
+[2020-06-29 09:15:36] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/
+[2020-06-29 09:15:37] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:15:40] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/
+[2020-06-29 09:15:41] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:15:46] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:15:46] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:15:47] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:15:49] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/
+[2020-06-29 09:15:54] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:15:55] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:15:57] Fetching org.eclipse.wst.jsdt.debug.crossfire_1.0.500.v201903222047.jar.pack.gz from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/plugins/ (46.61kB)
+[2020-06-29 09:15:58] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:16:00] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:16:01] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:16:01] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:16:05] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/
+[2020-06-29 09:16:10] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:16:11] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:16:19] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:16:22] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:16:25] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:16:30] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:16:30] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:16:34] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:16:37] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:16:37] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:16:44] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:16:46] Fetching org.eclipse.wst.jsdt.ui_2.0.401.v201912012351.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (2.32MB)
+[2020-06-29 09:16:46] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:16:46] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:16:47] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:16:50] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:16:51] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:16:52] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:17:00] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:17:10] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:17:11] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:17:13] Fetching org.eclipse.wst.jsdt.doc_2.0.200.v201903222101.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (3.64MB)
+[2020-06-29 09:17:14] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:17:14] Fetching org.eclipse.wst.jsdt.ui_2.0.401.v201912012351.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (2.32MB)
+[2020-06-29 09:17:19] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:17:19] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:17:21] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:17:24] Fetching org.eclipse.wst.jsdt.core_2.0.302.v201903222047.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.2MB)
+[2020-06-29 09:17:25] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:17:29] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:17:34] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:17:34] Fetching org.eclipse.php.core_7.0.0.201912041612.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (5.46MB)
+[2020-06-29 09:17:36] Fetching org.eclipse.php.help_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (3.1MB)
+[2020-06-29 09:17:37] Fetching org.eclipse.dltk.ui_6.0.0.201911302123.jar.pack.gz from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/plugins/ (1.95MB)
+[2020-06-29 09:17:37] Fetching org.eclipse.cdt.core_6.10.0.201912051559.jar.pack.gz from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/plugins/ (1.63MB)
+[2020-06-29 09:17:39] Fetching org.eclipse.birt.chart.engine_4.7.0.v201706222054.jar from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (1.69MB)
+[2020-06-29 09:17:41] Fetching org.eclipse.php.ui_7.0.0.201912041612.jar.pack.gz from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/plugins/ (985.52kB)
+[2020-06-29 09:17:44] Mirrored 6 artifacts from http://mirrors.neusoft.edu.cn/eclipse/releases/2019-12/201912181000/ at 1kb/s
+[2020-06-29 09:17:44] Mirrored 8 artifacts from http://mirror.library.ucy.ac.cy/eclipse/releases/2019-12/201912181000/ at 1kb/s
+[2020-06-29 09:17:44] Mirrored 1 artifacts from http://ftp.daumkakao.com/eclipse/releases/2019-12/201912181000/ at 1kb/s
+[2020-06-29 09:17:44] Mirrored 1 artifacts from http://ftp.kaist.ac.kr/eclipse/releases/2019-12/201912181000/ at 1kb/s
+[2020-06-29 09:17:44] Mirrored 6 artifacts from http://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2019-12/201912181000/ at 1kb/s
+[2020-06-29 09:17:44] Mirrored 1 artifacts from http://eclipse.stu.edu.tw/releases/2019-12/201912181000/ at 1kb/s
+[2020-06-29 09:17:44] Mirrored 27 artifacts from http://mirror.kakao.com/eclipse/releases/2019-12/201912181000/ at 0kb/s with 4 failures
+[2020-06-29 09:17:44] Mirrored 1 artifacts from http://mirrors.ustc.edu.cn/eclipse/releases/2019-12/201912181000/ at 0kb/s
+[2020-06-29 09:17:44] Mirrored 39 artifacts from http://eclipse.mirrors.estointernet.in/releases/2019-12/201912181000/ at 0kb/s with 4 failures
+[2020-06-29 09:17:44] Mirrored 9 artifacts from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2019-12/201912181000/ at 0kb/s with 1 failures
+[2020-06-29 09:17:44] Mirrored 1 artifacts from http://ftp.jaist.ac.jp/pub/eclipse/releases/2019-12/201912181000/ at 0kb/s
+[2020-06-29 09:17:44] Mirrored 1 artifacts from https://ftp.harukasan.org/eclipse/releases/2019-12/201912181000/ at 0kb/s
+[2020-06-29 09:17:44] Mirrored 1 artifacts from https://mirrors.tuna.tsinghua.edu.cn/eclipse/releases/2019-12/201912181000/ at 0kb/s
+[2020-06-29 09:17:44] Mirrored 5 artifacts from https://mirrors.nju.edu.cn/eclipse//releases/2019-12/201912181000/ at 0kb/s with 4 failures
+[2020-06-29 09:17:44] Collected 183 artifacts for http://download.eclipse.org/releases/2019-12/201912181000 in 302.566s
+[2020-06-29 09:17:44] An error was detected while performing the engine operation and the changes are being rolled back. See the log for details.
+[2020-06-29 09:17:44] java.lang.NullPointerException
+  at org.eclipse.core.internal.runtime.InternalPlatform.getLog(InternalPlatform.java:361)
+  at org.eclipse.core.runtime.Plugin.getLog(Plugin.java:237)
+  at org.eclipse.oomph.util.OomphPlugin.getLog(OomphPlugin.java:210)
+  at org.eclipse.oomph.util.OomphPlugin.log(OomphPlugin.java:225)
+  at org.eclipse.oomph.util.OomphPlugin.log(OomphPlugin.java:236)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.cleanup(ProfileTransactionImpl.java:1097)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.access$0(ProfileTransactionImpl.java:1087)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl$3.commit(ProfileTransactionImpl.java:561)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.commit(ProfileTransactionImpl.java:341)
+  at org.eclipse.oomph.setup.p2.impl.P2TaskImpl.perform(P2TaskImpl.java:815)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.doPerformNeededSetupTasks(SetupTaskPerformer.java:3827)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performNeededSetupTasks(SetupTaskPerformer.java:3755)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performTriggeredSetupTasks(SetupTaskPerformer.java:3736)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.perform(SetupTaskPerformer.java:3629)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage.installPerform(SimpleVariablePage.java:1325)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage.access$32(SimpleVariablePage.java:1187)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage$20.run(SimpleVariablePage.java:1132)
+
+[2020-06-29 09:17:44] 

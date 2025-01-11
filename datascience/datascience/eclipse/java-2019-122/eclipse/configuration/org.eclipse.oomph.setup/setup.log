@@ -1,0 +1,56 @@
+[2020-04-12 08:20:09] Executing bootstrap tasks
+[2020-04-12 08:20:09] Java(TM) SE Runtime Environment 1.8.0_181-b13
+[2020-04-12 08:20:09] Product org.eclipse.products.epp.package.java.2019-12
+[2020-04-12 08:20:09] Bundle org.eclipse.oomph.setup 1.15.0.v20191116-1146, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-04-12 08:20:09] Bundle org.eclipse.oomph.setup.core 1.15.0.v20191103-0619, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-04-12 08:20:09] Bundle org.eclipse.oomph.setup.p2 1.13.0.v20191019-1424, build=4434, branch=3a9f8ff482882029c027d32dc59d8b0436598aa8
+[2020-04-12 08:20:09] Performing P2 Director (Eclipse IDE for Java Developers (2019-12))
+[2020-04-12 08:20:09] Offline = false
+[2020-04-12 08:20:09] Mirrors = true
+[2020-04-12 08:20:09] Resolving 23 requirements from 3 repositories to C:\Users\Asus\eclipse\java-2019-122\eclipse
+[2020-04-12 08:20:09] Requirement epp.package.java [4.14.0,5.0.0)
+[2020-04-12 08:20:09] Requirement org.eclipse.platform.feature.group [4.14.0,5.0.0)
+[2020-04-12 08:20:09] Requirement org.eclipse.rcp.feature.group [4.14.0,5.0.0)
+[2020-04-12 08:20:09] Requirement org.eclipse.buildship.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.eclemma.feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.egit.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.egit.mylyn.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.epp.mpc.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.jdt.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.jgit.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.m2e.feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.m2e.logback.feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.mylyn.bugzilla_feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.mylyn.context_feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.mylyn.git.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.mylyn.hudson.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.mylyn.ide_feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.mylyn.java_feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.mylyn.wikitext_feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.mylyn_feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.tips.feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.wst.xml_ui.feature.feature.group
+[2020-04-12 08:20:09] Requirement org.eclipse.oomph.setup.feature.group
+[2020-04-12 08:20:09] Repository http://download.eclipse.org/technology/epp/packages/2019-12
+[2020-04-12 08:20:09] Repository http://download.eclipse.org/releases/2019-12/201912181000
+[2020-04-12 08:20:09] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2020-04-12 08:20:09] ERROR: org.eclipse.equinox.p2.transport.ecf code=1006 Unknown Host: http://download.eclipse.org/oomph/updates/milestone/latest/compositeContent.xml
+java.net.UnknownHostException: download.eclipse.org
+  at java.net.InetAddress.getAllByName0(Unknown Source)
+  at java.net.InetAddress.getAllByName(Unknown Source)
+  at java.net.InetAddress.getAllByName(Unknown Source)
+  at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+  at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+  at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+  at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+  at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+  at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+  at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+  at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+  at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+  at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+  at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:246)
+  at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+  at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+[2020-04-12 08:20:09] 
